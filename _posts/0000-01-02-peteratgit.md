@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to the second slide, added by P!"
+title: "This is my edited Title. It will need to be 1.Staged (+symbol),  2.Committed (Source Control View / message + Ctrl+Enter)  3. Pushed (ellipsis ... / Push"
 
 ---
 
